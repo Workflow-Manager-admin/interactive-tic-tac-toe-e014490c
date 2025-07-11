@@ -2,157 +2,157 @@
     "top_n_overall": [
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/package.json",
-            "count": 117
+            "count": 419
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.css",
-            "count": 52
+            "count": 131
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.js",
-            "count": 50
+            "count": 130
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/index.js",
-            "count": 49
-        },
-        {
-            "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/eslint.config.mjs",
-            "count": 40
+            "count": 128
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/post_process_status.lock",
-            "count": 39
+            "count": 119
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/eslint.config.mjs",
+            "count": 118
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/index.css",
-            "count": 37
+            "count": 115
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/README.md",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.test.js",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/setupTests.js",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/robots.txt",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/manifest.json",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/favicon.ico",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/logo192.png",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/index.html",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/logo512.png",
-            "count": 36
+            "count": 114
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/.status",
-            "count": 35
+            "count": 113
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/logo.svg",
-            "count": 35
+            "count": 113
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/package-lock.json",
-            "count": 32
+            "count": 108
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/post_process.log",
-            "count": 32
+            "count": 108
         }
     ],
     "top_n_last_10_min_accessed": [
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/package.json",
-            "count": 85
+            "count": 311
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.css",
-            "count": 18
+            "count": 21
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.js",
-            "count": 16
+            "count": 20
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/index.js",
-            "count": 15
-        },
-        {
-            "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/eslint.config.mjs",
-            "count": 8
+            "count": 18
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/post_process_status.lock",
-            "count": 7
+            "count": 11
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/eslint.config.mjs",
+            "count": 10
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/index.css",
-            "count": 5
+            "count": 7
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/README.md",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/App.test.js",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/setupTests.js",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/favicon.ico",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/index.html",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/logo192.png",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/logo512.png",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/manifest.json",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/public/robots.txt",
-            "count": 4
+            "count": 6
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/.status",
-            "count": 3
+            "count": 5
         },
         {
             "file": "/home/kavia/workspace/code-generation/interactive-tic-tac-toe-e014490c/react_js_frontend/src/logo.svg",
-            "count": 3
+            "count": 5
         }
     ]
 }
